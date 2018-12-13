@@ -1,0 +1,5 @@
+﻿  Triangle.cpp
+c:\users\david\onedrive\skrivbord\shape3\shape\triangle.cpp(57): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\david\onedrive\skrivbord\shape3\shape\triangle.cpp(58): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\david\onedrive\skrivbord\shape3\shape\triangle.cpp(59): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Shape.vcxproj -> C:\Users\David\OneDrive\Skrivbord\shape3\shape\Debug\Shape.exe

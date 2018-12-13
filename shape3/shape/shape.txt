@@ -1,0 +1,4 @@
+1 2        // Programmet skapar ett punkt-objetk
+1 2 1 2 2 4    // Programmet skapar ett triangel-objekt
+2 3 2 4        // Programmet skapat ett line-objekt
+1 2 3 2 4 3 2 3 4 5 // Programmet skapar ett polygon-objekt
